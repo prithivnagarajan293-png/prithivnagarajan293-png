@@ -102,8 +102,7 @@ Power BI · Streamlit
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prithiv%20Nagarajan-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/prithiv-nagarajan-739a87425)
 
-📧 **Email:** [your email address]
-
+📧 **Email:** prithivnagarajan293@gmail.com
 ---
 
 ⭐ *Thanks for visiting my profile!*
