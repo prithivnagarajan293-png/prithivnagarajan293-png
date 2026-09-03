@@ -51,6 +51,7 @@ Built and evaluated a Tamil-language RAG system using **FAISS, BM25, BGE-M3 embe
 **Tech:** Python · FAISS · BM25 · BGE-M3 · Gemini · Streamlit
 
 [View Project →](https://github.com/prithivnagarajan293-png/tamil-ai-rag-chatbot)
+
 ---
 
 ## 🛠️ Technical Skills
@@ -75,3 +76,13 @@ PostgreSQL · MySQL · ChromaDB · FAISS · Git · GitHub
 
 ### Visualization
 Power BI · Streamlit
+---
+
+## 🏗️ What I Build
+
+- **End-to-end Data Engineering Pipelines** — batch and real-time pipelines from ingestion to analytics
+- **Lakehouse Architectures** — Medallion Architecture, Delta Lake, data transformation, and dimensional modeling
+- **Cloud Data Platforms** — AWS-based data ingestion, processing, storage, and analytics workflows
+- **Streaming Data Systems** — event-driven pipelines using Kafka and real-time processing
+- **AI Data Engineering Systems** — data pipelines that prepare, enrich, embed, and serve data for AI applications
+- **RAG Applications** — document ingestion, chunking, hybrid retrieval, vector search, reranking, and LLM-based generation
