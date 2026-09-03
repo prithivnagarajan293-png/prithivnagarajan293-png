@@ -86,3 +86,24 @@ Power BI · Streamlit
 - **Streaming Data Systems** — event-driven pipelines using Kafka and real-time processing
 - **AI Data Engineering Systems** — data pipelines that prepare, enrich, embed, and serve data for AI applications
 - **RAG Applications** — document ingestion, chunking, hybrid retrieval, vector search, reranking, and LLM-based generation
+---
+
+## 🎯 Current Focus
+
+- Building production-style **AI Data Engineering** systems
+- Designing scalable **batch and streaming data pipelines**
+- Exploring **RAG, hybrid retrieval, embeddings, reranking, and LLM applications**
+- Strengthening **AWS, Databricks, Spark, Snowflake, and data platform engineering**
+- Building projects that combine **Data Engineering + Generative AI**
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prithiv%20Nagarajan-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/prithiv-nagarajan-739a87425)
+
+📧 **Email:** [your email address]
+
+---
+
+⭐ *Thanks for visiting my profile!*
