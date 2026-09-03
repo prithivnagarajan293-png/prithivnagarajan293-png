@@ -51,3 +51,27 @@ Built and evaluated a Tamil-language RAG system using **FAISS, BM25, BGE-M3 embe
 **Tech:** Python · FAISS · BM25 · BGE-M3 · Gemini · Streamlit
 
 [View Project →](https://github.com/prithivnagarajan293-png/tamil-ai-rag-chatbot)
+---
+
+## 🛠️ Technical Skills
+
+### Data Engineering
+Python · SQL · PySpark · Pandas · ETL/ELT · Data Modeling · Data Pipelines
+
+### Data Platforms & Lakehouse
+Databricks · Delta Lake · Apache Spark · Medallion Architecture · Snowflake
+
+### Cloud & Infrastructure
+AWS · Amazon S3 · AWS Glue · Amazon Redshift · Terraform · Docker
+
+### Streaming & Orchestration
+Apache Kafka · Apache Airflow
+
+### AI / Generative AI
+RAG · LLM Applications · Hybrid Search · BM25 · Vector Search · Embeddings · Reranking · Prompt Engineering
+
+### Databases & Tools
+PostgreSQL · MySQL · ChromaDB · FAISS · Git · GitHub
+
+### Visualization
+Power BI · Streamlit
